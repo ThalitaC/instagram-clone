@@ -24,3 +24,18 @@ body {
     width: 60%;
     height: 100vh;
 }
+
+.instagram-phone {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+}
+
+.instagram-phone img {
+    height: 50rem;
+}
+
+.profile-pic {
+    height: 10rem;
+}
