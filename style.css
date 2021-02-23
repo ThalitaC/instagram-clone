@@ -49,8 +49,13 @@ body {
     display: flex;
 }
 
-.profile-pic {
-    width: 100px
+.profile-pic {    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    border-radius: 50%;
+    overflow: hidden;
 }
 
 .group {
@@ -64,4 +69,12 @@ body {
     border: 1px solid #d3d3d3;
 }
 
-.group
+.group:nth-child(1) {
+    min-height: 20rem;
+}
+
+.instagram-logo {
+    height: 3rem;
+}
+
+
