@@ -33,6 +33,7 @@ body {
 }
 
 .instagram-continue {
+    font-weight: 800;
     display: flex;
     align-items: center;
     justify-content: center;
