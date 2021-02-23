@@ -157,5 +157,10 @@ body {
     .instagram-continue {
         width: 100%;
     }
+
+    .profile-pic {
+        width: 100px;
+        height: 100px;
+    }
 }
 
