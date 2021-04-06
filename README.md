@@ -1,5 +1,6 @@
 # instagram-clone
-Projeto de página web clone do instagram feito durante bootcamp da Digital Innovation One, utilizando HTML e CSS
+Projeto de página web clone do instagram feito durante bootcamp da Digital Innovation One, utilizando HTML e CSS.
+Disponível em: https://thalitac.github.io/instagram-clone/
 
 ![alt instagram clone on desktop](https://github.com/ThalitaC/instagram-clone/blob/main/Desktop.png)
 
